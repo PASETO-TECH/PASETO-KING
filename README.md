@@ -46,7 +46,7 @@
 
 ### 🔹 DEPLOY ON HEROKU
 
-  [![Click Here](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://https://github.com/PASETO-TECH/PASETO-KING)
+  [![Click Here](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/PASETO-TECH/PASETO-KING)
   
 ### 🔹 DEPLOY ON OTHER PLATFORMS
 - **Render:**  
