@@ -35,7 +35,7 @@
 ## 🚀 GET SESSION
 
 <p align="center">
-  <a href="https://toxic-lover.onrender.com">
+  <a href="https://bmb-tech-pair-site.onrender.com/pair">
     <img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-blue?style=for-the-badge&logo=paseto" width="220" height="38.45"/>
   </a>
 </p>
